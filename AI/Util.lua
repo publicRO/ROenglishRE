@@ -1,5 +1,5 @@
 
-require "AI\\Const"
+dofile ("./AI/Const.lua")
 
 --------------------------------------------
 -- List utility
