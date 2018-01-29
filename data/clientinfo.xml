@@ -4,12 +4,15 @@
 	<servicetype>korea</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-		<display>Local</display>
+		<display>Public Ragnarok Online</display>
       		<address>127.0.0.1</address>
       		<port>6900</port>
       		<version>55</version>
       		<langtype>1</langtype>
-		<registrationweb>www.ragnarok.com</registrationweb>
+		<registrationweb>http://blog.vietlubu.com/</registrationweb>
+		<aid>
+			<admin>2000000</admin>
+		</aid>
 		<loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>
